@@ -34,33 +34,29 @@ FoodyPicky is a comprehensive food ordering system designed to streamline the pr
    ```bash
    mv FoodyPicky /path/to/your/webserver/root
    
-4. **Create a MySQL database and import the provided SQL file**:
+3. **Create a MySQL database and import the provided SQL file**:
     ```bash
     CREATE DATABASE foodypicky;
     USE foodypicky;
     SOURCE /path/to/your/webserver/root/FoodyPicky/database.sql;
     
-5. **Configure the database connection**:
-  
+4. **Configure the database connection**:
+   ```bash
+     Edit the config.php file in the project to set your MySQL database credentials.
 
+5. Launch the application:
+   ```bash
+      Access the application through your web server (e.g., Public IP of EC2 Instance).
 
-- Edit the config.php file in the project to set your MySQL database credentials.
-
-Edit the config.php file in the project to set your MySQL database credentials.
-
-Launch the application:
-
-Access the application through your web server (e.g., Public IP of EC2 Instance).
-
-Deployment
+## Deployment
 FoodyPicky can be deployed on AWS using traditional web hosting methods. Ensure that your web server and database are correctly configured for production.
 
-Contributing
+## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contact
+## Contact
 Dipak Mohite
 
