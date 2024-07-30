@@ -48,10 +48,12 @@ FoodyPicky is a comprehensive food ordering system designed to streamline the pr
 
 4. **Configure the database connection**:
 
+   ```bash
    Edit the `config.php` file in the project to set your MySQL database credentials.
 
-5. **Launch the application**:
+6. **Launch the application**:
 
+   ```bash
    Access the application through your web server (e.g., `http://localhost/FoodyPicky`).
 
 ## Deployment
