@@ -1,6 +1,3 @@
-Here’s the README file with the requested social media icons and profile links:
-
-```markdown
 # FoodyPicky
 
 FoodyPicky is a comprehensive food ordering system designed to streamline the process of menu browsing, order placement, and payment processing. The system includes user authentication, real-time order management, status tracking, and automated notifications. Deployed on AWS Cloud Infrastructure, FoodyPicky offers enhanced scalability and reliability, utilizing CI/CD pipelines for efficient and reliable software delivery.
