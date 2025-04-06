@@ -21,7 +21,7 @@ FoodyPicky is a comprehensive food ordering system designed to streamline the pr
 - Apache/Nginx server
 - PHP
 - MySQL
-- AWS Account (for deployment, if applicable)
+- AWS Account
 
 ### Installation
 
