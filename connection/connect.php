@@ -2,8 +2,8 @@
 
 //main connection file for both admin & front end
 $servername = "localhost"; //server
-$username = "testuser"; //username
-$password = "pass@123"; //password
+$username = "root"; //username
+$password = ""; //password
 $dbname = "foodpicky_db";  //database
 
 // Create connection
